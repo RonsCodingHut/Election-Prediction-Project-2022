@@ -13,7 +13,6 @@ url = 'https://google.com/search?q=' + text
 # store it in a variable, request_result.
 request_result=requests.get( url,timeout=60 )
 
-
 # Creating soup from the fetched request
 soup = bs4.BeautifulSoup(request_result.text,"html.parser")
 
