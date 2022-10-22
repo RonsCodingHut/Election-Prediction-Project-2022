@@ -6,7 +6,7 @@ import bs4
 # 'https://google.com/search?q=' and
 # our customized search keyword.
 # Concatenate them
-text= "RishiSunak"
+text= "RishiSunak+WEF"
 url = 'https://google.com/search?q=' + text
 
 # Fetch the URL data using requests.get(url),
