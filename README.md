@@ -4,7 +4,7 @@
 ### (1) UK new Prime Minister (Conservative Party Leader) after Liz Truss --- official result will be announced on 24th or 28th October depending on how many final candidates will be selected on the 24th October;
 ### (2) Brazilian Presidential Election (2nd Round) --- offical result will be announced on 30th October (31st October Australian Time);
 ### (3) US mid-term Elections which include "Senate Majority" and "House Majority" --- the elections are scheduled to be held on 8th November 2022;
-### (4) Victoria State Election (overall), plus 2 specific districts: the Eildon district and the Mornington district; 
+### (4) Victoria State Election (overall), plus 2 specific districts: the Eildon district and the Mornington district --- the election is scheduled to be held on 26th November 2022;
 
 
 ### Python3.10; Pylint, Beautifulsoup4 etc are used in the project
